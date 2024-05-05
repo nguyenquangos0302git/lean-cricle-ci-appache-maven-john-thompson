@@ -17,6 +17,10 @@ jobs:
       - restore_cache:
           key: cache-{{ checksum "/tmp/CIRCLECI_CACHE_KEY" }}
       - run:
+          command: git config user.email "nguyenquangos0302git@gmail.com"
+      - run:
+          command: git config user.name "nguyenquangos0302git"
+      - run:
           command: mvn --batch-mode release:prepare release:perform -s .circleci/settings.xml
       - store_test_results:
           path: target/surefire-reports
