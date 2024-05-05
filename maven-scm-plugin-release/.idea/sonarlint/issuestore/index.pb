@@ -24,3 +24,5 @@ D
 .cricleci/config.yml,e\a\ea4bda34cd044775e52fe9dde37c9b558d7e4bca
 D
 .circleci/config.yml,f\d\fd5da61396a8376845bee5cdf71aaf3c98a888ae
+F
+.circleci/settings.xml,2\1\211e4ef35095cd23291c4eda68eeb2173ed5d2bc
