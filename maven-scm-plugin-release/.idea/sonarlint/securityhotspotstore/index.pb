@@ -22,3 +22,5 @@ w
 G.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,8\6\863e0292fd7e9b3e74dafd6cc01f73ba76346482
 D
 .cricleci/config.yml,e\a\ea4bda34cd044775e52fe9dde37c9b558d7e4bca
+D
+.circleci/config.yml,f\d\fd5da61396a8376845bee5cdf71aaf3c98a888ae
